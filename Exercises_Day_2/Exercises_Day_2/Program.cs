@@ -1,4 +1,6 @@
 ﻿using System.Drawing;
+using System.Dynamic;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 
 class Car //definition of the class
@@ -37,7 +39,7 @@ class Car //definition of the class
 
         Console.WriteLine("--------------------------------------------------------------------");
 
-        Dog bulldog = new Dog(Dog.dlegs, 45.0, "brown", "English Bulldog");
+        Dog bulldog = new Dog(45.0, "brown", "English Bulldog", "m");
         Console.WriteLine(bulldog.outputDog(bulldog));
     }
 
@@ -52,29 +54,41 @@ class Car //definition of the class
 
 class Dog
 {
-    public static int dlegs = 4;
-    int legs;
+    //public static int dlegs;
+    protected int legs = 4;
     double widerrist;
     string dogbreed;
     string color;
+    string gender;
 
-    public Dog(int legs, double widerrist, string color, string dogbreed)
+    public int GetLegs() 
     {
-        this.legs = legs;
+        return legs;
+    }
+    public Dog(double widerrist, string color, string dogbreed, string gender)
+    {
         this.widerrist = widerrist;
         this.color = color;
         this.dogbreed = dogbreed;
+        this.gender = gender;
     }
+
+  //  public Dog()
+  //  {
+  //
+  //  }
 
     public string outputDog(Dog dog)
     {
 
-       Console.WriteLine("My dog is: ");
-       Console.WriteLine(dog.legs);
-       Console.WriteLine(dog.widerrist);
-       Console.WriteLine(dog.dogbreed);
-       Console.WriteLine(dog.color);
-      return "";
+       Console.WriteLine("My dog: ");
+       Console.WriteLine(dog.GetLegs() + " legs.");
+       Console.WriteLine(dog.widerrist + " withers height.");
+       Console.WriteLine(dog.dogbreed + " is the dog breed.");
+       Console.WriteLine(dog.color + " is the color.");
+       Console.WriteLine(dog.gender + " is the gender.");
+
+        return "";
     }
 
 }
