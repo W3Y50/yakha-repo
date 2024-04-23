@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7+\\Exercises_Day_7+\\Exercises_Day_7plus.csproj": {}
+    "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7+\\Exercises_Day_7plus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7+\\Exercises_Day_7+\\Exercises_Day_7plus.csproj": {
+    "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7+\\Exercises_Day_7plus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7+\\Exercises_Day_7+\\Exercises_Day_7plus.csproj",
+        "projectUniqueName": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7+\\Exercises_Day_7plus.csproj",
         "projectName": "Exercises_Day_7plus",
-        "projectPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7+\\Exercises_Day_7+\\Exercises_Day_7plus.csproj",
+        "projectPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7+\\Exercises_Day_7plus.csproj",
         "packagesPath": "C:\\Users\\pweye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7+\\Exercises_Day_7+\\obj\\",
+        "outputPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Exercises_Day_7plus\\Exercises_Day_7+\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pweye\\AppData\\Roaming\\NuGet\\NuGet.Config",

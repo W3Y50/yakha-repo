@@ -5,25 +5,25 @@ using System; // using System namespace
 namespace Exercises_Day_7plus.Day7
 {
 
-    namespace MyProgram //using namespace
-    {
+    //namespace MyProgram //using namespace
+    //{
 
-        class MainClass()
-        {
+    //    class MainClass()
+    //    {
 
-            public static void Main(string[] args)
-            {
-                Concat obj1 = new Concat();
-                obj1.ConEtc();
-                StringOps obj2 = new StringOps();
-                obj2.strOps();
-                Animal obj3 = new Animal();   //declare a new struct
-                obj3.getAnimalName("Jolanda");
+    //        public static void Main(string[] args)
+    //        {
+    //            Concat obj1 = new Concat();
+    //            obj1.ConEtc();
+    //            StringOps obj2 = new StringOps();
+    //            obj2.strOps();
+    //            Animal obj3 = new Animal();   //declare a new struct
+    //            obj3.getAnimalName("Jolanda");
 
-            }
+    //        }
 
-        }
-    }
+    //    }
+    //}
 
     namespace DoSomethingWithStrings //using namespace
     {
