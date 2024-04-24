@@ -31,6 +31,18 @@ namespace Exercises_Day_7_.Day8
             Console.WriteLine("Enter a Text. The pattern is: format of 28-JUL-2023");
             Console.WriteLine("The RegEx is matched: " + reg.RegExIsMatched(Console.ReadLine()));
 
+            //ChristmasTest
+            ChristmasTest.HandOutGift("Peter");
+            ChristmasTest.HandOutGift("Marie");
+            ChristmasTest.HandOutGift("Bernd");
+            ChristmasTest.HandOutGift("Frank");
+            ChristmasTest.HandOutGift("Louis");
+            ChristmasTest.HandOutGift("Peter"); //must throw an Error
+
+            //Find the highest and the lowest number in a string
+
+            Console.WriteLine("The highest and the lowest number is: " + ChristmasTest.HighAndLow("8 3 -5 42 -1 0 0 -9 4 7 4 -4"));
+
         }
         static void Add(int a, int b)
         {
