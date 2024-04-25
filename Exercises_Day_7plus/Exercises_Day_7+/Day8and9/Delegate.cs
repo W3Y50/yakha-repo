@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Exercises_Day_7_.Day10;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -42,6 +43,12 @@ namespace Exercises_Day_7_.Day8
             //Find the highest and the lowest number in a string
 
             Console.WriteLine("The highest and the lowest number is: " + ChristmasTest.HighAndLow("8 3 -5 42 -1 0 0 -9 4 7 4 -4"));
+
+            //PlayAround with numers
+
+            Console.WriteLine(PlayAround.NbYear(1500, 5, 100, 5000) + " / must be 15"); // must be 15
+            Console.WriteLine(PlayAround.NbYear(1500000, 2.5, 10000, 2000000) + " / must be 10"); // must be 10
+            Console.WriteLine(PlayAround.NbYear(1500000, 0.25, 1000, 2000000) + " / must be 94"); // must be 94
 
         }
         static void Add(int a, int b)
