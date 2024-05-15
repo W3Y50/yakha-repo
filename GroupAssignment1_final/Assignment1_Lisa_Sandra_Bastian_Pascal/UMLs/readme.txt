@@ -17,8 +17,6 @@ In the first step, I described the current status of what we have built.
 
 I have created various UMLs for this purpose. Once class diagrams and a flow diagram for the rough flow of the Program.
 
---> bilder zeigen
-
 In the second step, I collected ideas on what else could be added
 
 I thought it would be a good idea to add a kind of cash register system or point of sales system and an internal article management system.
@@ -29,5 +27,3 @@ From a certain authorisation level, it should be possible to display an overview
 Sie sollten dann in der Lage sein, einen Artikel und einen Kassenbestand anzuzeigen.
 
 I have created class diagrams and a rough flow diagram for this.
-
---> bilder zeigen
