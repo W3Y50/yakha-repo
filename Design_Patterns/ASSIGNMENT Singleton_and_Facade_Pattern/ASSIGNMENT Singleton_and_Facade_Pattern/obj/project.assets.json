@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\ASSIGNMENT Singleton_and_Facade_Pattern\\ASSIGNMENT Singleton_and_Facade_Pattern\\ASSIGNMENT Singleton_and_Facade_Pattern.csproj",
+      "projectUniqueName": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\ASSIGNMENT Singleton_and_Facade_Pattern\\ASSIGNMENT Singleton_and_Facade_Pattern\\ASSIGNMENT Singleton_and_Facade_Pattern.csproj",
       "projectName": "ASSIGNMENT Singleton_and_Facade_Pattern",
-      "projectPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\ASSIGNMENT Singleton_and_Facade_Pattern\\ASSIGNMENT Singleton_and_Facade_Pattern\\ASSIGNMENT Singleton_and_Facade_Pattern.csproj",
+      "projectPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\ASSIGNMENT Singleton_and_Facade_Pattern\\ASSIGNMENT Singleton_and_Facade_Pattern\\ASSIGNMENT Singleton_and_Facade_Pattern.csproj",
       "packagesPath": "C:\\Users\\pweye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\ASSIGNMENT Singleton_and_Facade_Pattern\\ASSIGNMENT Singleton_and_Facade_Pattern\\obj\\",
+      "outputPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\ASSIGNMENT Singleton_and_Facade_Pattern\\ASSIGNMENT Singleton_and_Facade_Pattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pweye\\AppData\\Roaming\\NuGet\\NuGet.Config",

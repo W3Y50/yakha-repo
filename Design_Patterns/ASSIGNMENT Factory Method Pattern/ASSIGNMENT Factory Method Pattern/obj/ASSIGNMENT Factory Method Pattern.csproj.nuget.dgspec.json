@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern.csproj": {}
+    "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern.csproj": {
+    "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern.csproj",
+        "projectUniqueName": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern.csproj",
         "projectName": "ASSIGNMENT Factory Method Pattern",
-        "projectPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern.csproj",
+        "projectPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern.csproj",
         "packagesPath": "C:\\Users\\pweye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern\\obj\\",
+        "outputPath": "C:\\Users\\pweye\\Desktop\\yakha\\yakha-repo\\Design_Patterns\\ASSIGNMENT Factory Method Pattern\\ASSIGNMENT Factory Method Pattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pweye\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASSIGNMENT Singleton_and_Facade_Pattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a147549eeeb16c824f03954fdbb2bb0161ed98a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0f49b2eae9b0dbc20286db5e8b14a35620832ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASSIGNMENT Singleton_and_Facade_Pattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASSIGNMENT Singleton_and_Facade_Pattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
